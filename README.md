@@ -13,9 +13,11 @@ Amanda Araújo Serrão de Andrade1,2,☨, Andrea Silverj1,2,☨, Theodore Joseph
 Affiliations:
 
 1 Department of Biological Sciences, University of Calgary, Calgary, AB, T2N 1N4, Canada.
+
 2 Snyder Institute for Chronic Diseases, Cumming School of Medicine, University of Calgary, Calgary, AB, T2N 1N4, Canada.
 
 ☨ = authors contributed equally
+
 * = corresponding author
 
 Corresponding author: ann.gregory@ucalgary.ca
