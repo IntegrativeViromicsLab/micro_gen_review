@@ -8,9 +8,9 @@ Supplementary Table 3 provides an overview of viral identification tools include
 
 More details will be available upon publication of the manuscript.
 
-### Amanda Araújo Serrão de Andrade1,2,☨, Andrea Silverj1,2,☨, Theodore Josephs1,2,☨, Ann C. Gregory1,2,*. Evolving Strategies for Virus Discovery (in press)
+##### Amanda Araújo Serrão de Andrade1,2,☨, Andrea Silverj1,2,☨, Theodore Josephs1,2,☨, Ann C. Gregory1,2,*. Evolving Strategies for Virus Discovery (in press)
 
-### Affiliations:
+##### Affiliations:
 
 1 Department of Biological Sciences, University of Calgary, Calgary, AB, T2N 1N4, Canada.
 
