@@ -11,8 +11,10 @@ More details will be available upon publication of the manuscript.
 Amanda Araújo Serrão de Andrade1,2,☨, Andrea Silverj1,2,☨, Theodore Josephs1,2,☨, Ann C. Gregory1,2,*. Evolving Strategies for Virus Discovery (in press)
 
 Affiliations:
-1Department of Biological Sciences, University of Calgary, Calgary, AB, T2N 1N4, Canada.
-2Snyder Institute for Chronic Diseases, Cumming School of Medicine, University of Calgary, Calgary, AB, T2N 1N4, Canada.
+
+1 Department of Biological Sciences, University of Calgary, Calgary, AB, T2N 1N4, Canada.
+2 Snyder Institute for Chronic Diseases, Cumming School of Medicine, University of Calgary, Calgary, AB, T2N 1N4, Canada.
+
 ☨ = authors contributed equally
 * = corresponding author
 
