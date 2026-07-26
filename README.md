@@ -6,9 +6,10 @@ Supplementary Table 2 summarizes viral detection studies published between 2010 
 
 Supplementary Table 3 provides an overview of viral identification tools included in this study. It compiles key attributes such as publication year, most recent update, authorship, methodological approach, targeted viral types (all viruses, DNA viruses, or RNA viruses), and functional capabilities including taxonomy assignment, genome annotation, and host prediction. It also includes source code availability and citation counts (retrieved from Google Scholar in March 2026).
 
-More details will be available upon publication of the manuscript.
+More details are available in the manuscript:
 
-#### Amanda Araújo Serrão de Andrade1,2,☨, Andrea Silverj1,2,☨, Theodore Josephs1,2,☨, Ann C. Gregory1,2,*. Evolving Strategies for Virus Discovery
+#### Evolving Strategies for Virus Discovery
+#### Amanda Araújo Serrão de Andrade1,2,☨, Andrea Silverj1,2,☨, Theodore Josephs1,2,☨, Ann C. Gregory1,2,*.
 [![Article](https://img.shields.io/badge/Microbial_Genomics-10.1099%2Fmgen.0.001234-1f7a8c)](https://doi.org/10.1099/mgen.0.001785)
 
 ##### Affiliations:
