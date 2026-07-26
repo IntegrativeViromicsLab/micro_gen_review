@@ -8,7 +8,7 @@ Supplementary Table 3 provides an overview of viral identification tools include
 
 More details are available in the manuscript:
 
-#### Evolving Strategies for Virus Discovery
+### Evolving Strategies for Virus Discovery
 #### Amanda Araújo Serrão de Andrade1,2,☨, Andrea Silverj1,2,☨, Theodore Josephs1,2,☨, Ann C. Gregory1,2,*.
 [![Article](https://img.shields.io/badge/Microbial_Genomics-10.1099%2Fmgen.0.001234-1f7a8c)](https://doi.org/10.1099/mgen.0.001785)
 
