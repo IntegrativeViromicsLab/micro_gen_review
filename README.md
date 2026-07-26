@@ -8,7 +8,8 @@ Supplementary Table 3 provides an overview of viral identification tools include
 
 More details will be available upon publication of the manuscript.
 
-#### Amanda Araújo Serrão de Andrade1,2,☨, Andrea Silverj1,2,☨, Theodore Josephs1,2,☨, Ann C. Gregory1,2,*. Evolving Strategies for Virus Discovery (in press)
+#### Amanda Araújo Serrão de Andrade1,2,☨, Andrea Silverj1,2,☨, Theodore Josephs1,2,☨, Ann C. Gregory1,2,*. Evolving Strategies for Virus Discovery
+[![Article](https://img.shields.io/badge/Microbial_Genomics-10.1099%2Fmgen.0.001234-1f7a8c)](https://doi.org/10.1099/mgen.0.001785)
 
 ##### Affiliations:
 
